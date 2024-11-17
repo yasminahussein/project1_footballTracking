@@ -5,4 +5,4 @@
      - players info contains : 
          . player position 
          . label : 0 for ball , any anther number is for player 
-         . cluster_label : 0 for team & 1 to the other team
+         . cluster_label : 0 for team & 1 to the other team 
