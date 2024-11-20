@@ -9,3 +9,5 @@
 
 The folder link of the output of players_heatmap_version_1 file :
 https://drive.google.com/drive/folders/12Ge4uqhhHkKN9q-U2ImeoMHABuYAsm9X?usp=sharing 
+the used data link: 
+https://drive.google.com/drive/folders/10VYaV5jaKQ63goIrwK5ZdCukTwVqlBbE?usp=sharing
